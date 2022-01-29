@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @koalascode
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning JS, React, and Node
+- 🌱 I’m currently learning JS, React (and other frameworks like Next.JS), and Node
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me: IDK. 
 
