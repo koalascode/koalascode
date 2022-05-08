@@ -10,7 +10,7 @@
 <img width="20" src="https://styles.redditmedia.com/t5_3h7yi/styles/communityIcon_1cvjfamjpre71.png" /> NextJS
 
 
-<img width="20" src="https://styles.redditmedia.com/t5_3h7yi/styles/communityIcon_1cvjfamjpre71.png" /> NextJS
+<img width="25" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png" /> NodeJS
 
 
 <img width="20" src="https://spng.subpng.com/20180403/rww/kisspng-mongodb-node-js-npm-open-source-model-angularjs-leaf-5ac44d9eb3d294.1874788615228143667366.jpg" /> MongoDB
