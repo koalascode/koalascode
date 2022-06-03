@@ -25,4 +25,4 @@ Website: <a href="https://www.aaronanidjar.com">aaronanidjar.com</a>
 
 
 
-<img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmaxcdn.icons8.com%2FShare%2Ficon%2FLogos%2Fcss31600.png&f=1&nofb=1g" />CSS
+<img width="20" src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png" />CSS
