@@ -32,4 +32,4 @@ Website: <a href="https://www.aaronanidjar.com">aaronanidjar.com</a>
 
 Better Bitcoin Bureau: <a href="https://www.palabren.com/">palabren.com</a>
 
-Clean Westchester:  <a href="https://cleanwestchester.org/">palabren.com</a>
+Clean Westchester:  <a href="https://cleanwestchester.org/">cleanwestchester.org</a>
