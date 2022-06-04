@@ -28,7 +28,7 @@ Website: <a href="https://www.aaronanidjar.com">aaronanidjar.com</a>
 <img width="20" src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png" />CSS
 
 
-## Projets
+## Projets:
 
 Better Bitcoin Bureau: <a href="https://www.palabren.com/">palabren.com</a>
 
