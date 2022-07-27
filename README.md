@@ -20,6 +20,8 @@ Website: <a href="https://www.aaronanidjar.com">aaronanidjar.com</a>
 <img width="20" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" /> C++
 
 
+<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /> Python
+
 
 <img width="20" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" />HTML
 
