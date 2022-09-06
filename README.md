@@ -8,7 +8,7 @@ Website: <a href="https://www.aaronanidjar.com">aaronanidjar.com</a>
 <img width="20" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FReact_logo_logotype_emblem.png&f=1&nofb=1" />ReactJS
 
 
-<img width="20" src="https://styles.redditmedia.com/t5_3h7yi/styles/communityIcon_1cvjfamjpre71.png" /> NextJS
+<img width="20" src="[https://styles.redditmedia.com/t5_3h7yi/styles/communityIcon_1cvjfamjpre71.png](https://raw.githubusercontent.com/detain/svg-logos/master/svg/next-js.svg)" /> NextJS
 
 
 <img width="25" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png" /> NodeJS
