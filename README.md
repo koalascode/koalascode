@@ -16,6 +16,9 @@ Website: <a href="https://www.aaronanidjar.com">aaronanidjar.com</a>
 
 <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" /> PostgreSQL
 
+<img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" /> AWS
+
+
 <img width="20" src="https://spng.subpng.com/20180403/rww/kisspng-mongodb-node-js-npm-open-source-model-angularjs-leaf-5ac44d9eb3d294.1874788615228143667366.jpg" /> MongoDB
 
 
