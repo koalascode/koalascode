@@ -37,6 +37,8 @@ Website: <a href="https://www.aaronanidjar.com">aaronanidjar.com</a>
 
 ## Projets:
 
+Yeaow <a href="https://www.yeaow.com">yeaow.com</a>
+
 Better Bitcoin Bureau: <a href="https://www.palabren.com/">palabren.com</a>
 
 Clean Westchester:  <a href="https://cleanwestchester.org/">cleanwestchester.org</a>
