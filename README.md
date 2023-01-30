@@ -13,6 +13,8 @@ Website: <a href="https://www.aaronanidjar.com">aaronanidjar.com</a>
 
 <img width="25" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png" /> NodeJS
 
+<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2880px-Go_Logo_Blue.svg.png" /> Go
+
 
 <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" /> PostgreSQL
 
@@ -22,10 +24,10 @@ Website: <a href="https://www.aaronanidjar.com">aaronanidjar.com</a>
 <img width="20" src="https://spng.subpng.com/20180403/rww/kisspng-mongodb-node-js-npm-open-source-model-angularjs-leaf-5ac44d9eb3d294.1874788615228143667366.jpg" /> MongoDB
 
 
-<img width="20" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" /> C++
-
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /> Python
+
+<img width="20" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" /> C++
 
 
 <img width="20" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" />HTML
