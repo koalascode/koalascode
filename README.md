@@ -39,10 +39,12 @@ Website: <a href="https://www.aaronanidjar.com">aaronanidjar.com</a>
 
 ## Projects:
 
+Currently Building: Stackchess <a href="https://www.stackchess.com">stackchess.com</a>
+
 Yeaow <a href="https://www.yeaow.com">yeaow.com</a>
 
 Clean Westchester:  <a href="https://cleanwestchester.org/">cleanwestchester.org</a>
 
 Programemos <a href="https://programemos.org/">programemos.org</a>
 
-Better Bitcoin Bureau: <a href="https://www.palabren.com/">palabren.com</a>
+Better Bitcoin Bureau: <a href="https://betterbitcoinbureau.vercel.app/">palabren.com</a>
