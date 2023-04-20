@@ -47,4 +47,4 @@ Clean Westchester:  <a href="https://cleanwestchester.org/">cleanwestchester.org
 
 Programemos <a href="https://programemos.org/">programemos.org</a>
 
-Better Bitcoin Bureau: <a href="https://betterbitcoinbureau.vercel.app/">palabren.com</a>
+Better Bitcoin Bureau: <a href="https://betterbitcoinbureau.vercel.app/">betterbitcoinbureau.vercel.app</a>
