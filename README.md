@@ -1,5 +1,3 @@
-👋 Hi, I’m @koalascode
-
 Website: <a href="https://www.aaronanidjar.com">aaronanidjar.com</a>
 
 ## My Skills:
@@ -41,10 +39,4 @@ Website: <a href="https://www.aaronanidjar.com">aaronanidjar.com</a>
 
 Currently Building: Stackchess <a href="https://www.stackchess.com">stackchess.com</a>
 
-Yeaow <a href="https://www.yeaow.com">yeaow.com</a>
-
-Clean Westchester:  <a href="https://cleanwestchester.org/">cleanwestchester.org</a>
-
-Programemos <a href="https://programemos.org/">programemos.org</a>
-
-Better Bitcoin Bureau: <a href="https://betterbitcoinbureau.vercel.app/">betterbitcoinbureau.vercel.app</a>
+CS Research @ Williams College 
