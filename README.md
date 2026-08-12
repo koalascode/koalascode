@@ -1,6 +1,6 @@
 Website: <a href="https://www.aaronanidjar.com">aaronanidjar.com</a>
 
-**Currently Building: **
+**Currently Building:**
 
 Stackchess <a href="https://www.stackchess.com">stackchess.com</a>
 
